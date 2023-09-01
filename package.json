@@ -8,7 +8,7 @@
     "build": "next build",
     "start": "next start"
   },
-  "proxy": "http://localhost:5000", // Replace with your Flask backend URL
+  "proxy": "http://localhost:5000",
   "dependencies": {
     "next": "^12.0.7",
     "react": "^17.0.2",
